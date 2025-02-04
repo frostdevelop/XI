@@ -1,0 +1,7 @@
+Filenames V1.0
+A - XI Train Data
+D - XI res
+E - Test AI(1)
+H - XI(2)
+I - Older XI(1)
+J - Old XI(2)
